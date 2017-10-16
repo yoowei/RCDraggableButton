@@ -1,9 +1,9 @@
 //
 //  RCViewController.h
-//  RCDraggableButtonDemo
+//  RCDraggableButtonExample
 //
 //  Created by Looping on 14-2-8.
-//  Copyright (c) 2014 RidgeCorn. All rights reserved.
+//  Copyright (c) 2014年 RidgeCorn. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
