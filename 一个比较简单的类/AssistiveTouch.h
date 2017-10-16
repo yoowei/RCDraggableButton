@@ -1,9 +1,9 @@
 //
 //  AssistiveTouch.h
-//  zjcmcc
+//
 //
 //  Created by yoowei on 2017/10/16.
-//  Copyright © 2017年 sjyyt. All rights reserved.
+//  Copyright © 2017年 . All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
